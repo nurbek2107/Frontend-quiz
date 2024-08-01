@@ -7,7 +7,7 @@ function MenuLinks() {
     isPending,
     error,
   } = useFetch(
-    "https://online-json-server-api.up.railway.app/project/66589e8316aab5687eae3b28/quizzes"
+    "https://online-json-server-api.up.railway.app/project/66a75ea31d2cd3eb11451b63/quizzes"
   );
 
   console.log(isPending, error);

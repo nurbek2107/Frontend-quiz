@@ -105,7 +105,6 @@ function Test({ questions: { questions, title, color, icon } }) {
                     />
                     <span className="test-text">{option}</span>
 
-                    {/* icon */}
                     <img
                       className="test-icon-correct"
                       src="../assets/icon-correct.svg"
