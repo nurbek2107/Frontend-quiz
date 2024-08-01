@@ -11,15 +11,6 @@ function MainLayout() {
       <main>
         <Outlet />
       </main>
-      <footer>
-        <a href="https://www.youtube.com/@akhrorweb" target="_blank">
-          Youtube
-        </a>{" "}
-        |
-        <a href="https://www.github.com/akhrorsoliev" target="_blank">
-          Github
-        </a>
-      </footer>
     </>
   );
 }
